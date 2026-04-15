@@ -17,3 +17,5 @@ Tools Installed
 * **Solution:** I cross-referenced the requirements and looked for the version with the highest ratings/official branding to ensure I had the correct tool.
 * **Challenge:** Configuring the GitHub connection within a new IDE.
 * **Solution:** I used the Cursor command palette (Ctrl+Shift+P) and searched for "Git: Clone" to streamline the process.
+* **Challenge:** Encountered a CommandNotFoundException when attempting to use Git commands in the terminal (Git was not recognized as a program).
+* **Solution:** Identified that Git was not installed on the local system. Downloaded and installed Git for Windows, restarted the IDE to update the system PATH, and successfully verified the installation by re-running the configuration commands.
