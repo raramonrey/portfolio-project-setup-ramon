@@ -13,7 +13,7 @@ Tools Installed
 5.  **Documentation:** Synthesized the setup process into this README file.
 
 ## Challenges & Solutions
-**Challenge:** Initially, I couldn't find the "Codex" add-on because multiple extensions had similar names.
+* **Challenge:** Initially, I couldn't find the "Codex" add-on because multiple extensions had similar names.
 * **Solution:** I cross-referenced the requirements and looked for the version with the highest ratings/official branding to ensure I had the correct tool.
 * **Challenge:** Configuring the GitHub connection within a new IDE.
 * **Solution:** I used the Cursor command palette (Ctrl+Shift+P) and searched for "Git: Clone" to streamline the process.
