@@ -1,5 +1,6 @@
 # portfolio-project-setup-ramon
-Tools Installed
+
+## Tools Installed
 * **Cursor IDE:** A specialized AI code editor.
 * **Claude Code Add-on:** AI assistant extension for Cursor.
 * **Codex Add-on:** Documentation and AI-assisted workflow tool.
